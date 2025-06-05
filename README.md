@@ -58,7 +58,7 @@ project-root/
 ```
 
 
-### Prerequisites
+# Prerequisites
 
 ## Backend
 - Docker Desktop (Mac, Windows, Linux) or Docker + Docker Compose(Linux)
@@ -71,7 +71,7 @@ project-root/
 
 ---
 
-### 🛠️ Installation Instructions
+# 🛠️ Installation Instructions
 
 ## 1. Backend Setup (Laravel)
 
@@ -85,10 +85,10 @@ project-root/
 
 ## 2. Frontend Setup (Vue.js)
 
-cd front
-npm install
-npm run dev
-```
+- cd front
+- npm install
+- npm run dev
+
 
 ### Access & Test the App
 
