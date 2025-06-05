@@ -85,7 +85,7 @@ project-root/
 
 ## 2. Frontend Setup (Vue.js)
 
-- cd front
+- cd front-vue
 - npm install
 - npm run dev
 
